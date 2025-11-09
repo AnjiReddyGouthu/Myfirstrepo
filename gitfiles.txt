@@ -1,4 +1,4 @@
-Hi anjireddy how are 
+Hi anjireddy how are
 
 import pytest
 def test_case1():
@@ -27,8 +27,6 @@ def test_case4():
     c = 5 - 5
     print(c)
 
-
-
-
-
-
+def test_case5():
+    c = 6 - 6
+    print(c)
